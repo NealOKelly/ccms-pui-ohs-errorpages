@@ -1,4 +1,4 @@
-<!--#include virtual="/errorpages/includes/header.shtml" --> 
+<!--#include virtual="/errorpages/includes/header.html" --> 
 <div><!--#include virtual="/errorpages/includes/error_text.html" --> </div>
 <div class="govuk-inset-text">504 - Gateway Timeout</div>
 <!--#include virtual="/errorpages/includes/footer.html" --> 
