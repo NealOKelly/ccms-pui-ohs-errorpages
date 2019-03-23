@@ -1,0 +1,8 @@
+<!--#include virtual="/errorpages/includes/header.shtml" --> 
+<div><!--#include virtual="/errorpages/includes/error_text.html" --> </div>
+</div>
+<div class="govuk-grid-column-two-thirds">
+	<div style="text-align:center;"><img src="/errorpages/assets/images/teapot.png" alt="Picture of a Teapot" style="width:100%;"/></div>
+	<div class="govuk-inset-text">418 - I'm a teapot (RFC 2324)</div>
+</div>
+<!--#include virtual="/errorpages/includes/footer.shtml" --> 

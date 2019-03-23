@@ -1,0 +1,11 @@
+<!--#include virtual="/errorpages/includes/header.shtml" --> 
+<div><!--#include virtual="/errorpages/includes/error_text.html" --> </div>
+</div>
+<div class="govuk-grid-column-two-thirds">
+	<div style="text-align:center;"><img src="/errorpages/assets/images/glass-of-water.png" alt="Picture of a glass of water" style="width:50%;"/></div>
+	<div style="text-align:center;"><img src="/errorpages/assets/images/matchbox.png" alt="Picture of a matchbox" style="width:50%;"/></div>
+	<div style="text-align:center;"><img src="/errorpages/assets/images/egg.png" alt="Picture of an egg" style="width:50%;"/></div>
+	<div class="govuk-inset-text">Jeffrey Bernard is Unwell</div>
+</div>
+<!--#include virtual="/errorpages/includes/footer.shtml" --> 
+

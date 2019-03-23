@@ -1,0 +1,4 @@
+<!--#include virtual="/errorpages/includes/header.shtml" --> 
+<div><!--#include virtual="/errorpages/includes/error_text.html" --> </div>
+<div class="govuk-inset-text">410 - Gone</div>
+<!--#include virtual="/errorpages/includes/footer.shtml" --> 
