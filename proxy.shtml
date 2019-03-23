@@ -1,6 +1,6 @@
 <!--#include virtual="/errorpages/includes/header.shtml" --> 
 <div><!--#include virtual="/errorpages/includes/error_text.html" --> </div>
 <div class="govuk-inset-text">Proxy Error</div>
-<!--#include virtual="/errorpages/includes/footer.shtml" --> 
+<!--#include virtual="/errorpages/includes/footer.html" --> 
 
         

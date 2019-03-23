@@ -5,4 +5,4 @@
 	<div style="text-align:center;"><img src="/errorpages/assets/images/teapot.png" alt="Picture of a Teapot" style="width:100%;"/></div>
 	<div class="govuk-inset-text">418 - I'm a teapot (RFC 2324)</div>
 </div>
-<!--#include virtual="/errorpages/includes/footer.shtml" --> 
+<!--#include virtual="/errorpages/includes/footer.html" --> 
